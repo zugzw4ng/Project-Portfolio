@@ -7,3 +7,14 @@ body {
 main {
     flex: 1 0 auto;
   }
+ul {
+    background-color: #7e57c2;
+}
+#nose-guy {
+    max-height: 150px;
+    max-width: 150px;
+}
+#head-name {
+    font-weight: 10;
+    font-size: 50px;
+}
